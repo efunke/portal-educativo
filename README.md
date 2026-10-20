@@ -1,4 +1,6 @@
-# Portal Educativo
+# Portal Educativo - v1.0
+Data: 20/10/2026
+Autor: Edson Funke
 
 Portal de códigos, exemplos e materiais de apoio para atividades educacionais e projetos de programação.
 
