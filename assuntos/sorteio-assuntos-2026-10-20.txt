@@ -1,0 +1,11 @@
+﻿Grupo - Participantes - Código do assunto - Assunto
+Grupo 1 - AMANDA SCHÄFER, MARIA VALENTINA BREITENBACH HERMES - 4.1 - Circuitos de Filtros Passivos (RC e RL)
+Grupo 2 - BERNARDO TEIXEIRA KAMPHORST, EDUARDO CRESTANI GÖHL - 1.2 - Capacitores e Armazenamento de Energia
+Grupo 3 - BRUNA DE FREITAS, MARIANA STEIN FRANDOLIGE - 1.3 - Indutores e Eletromagnetismo
+Grupo 4 - BRUNO HENRIQUE RODRIGUES, MURILO DULLIUS - 3.3 - Potência Elétrica e Efeito Joule
+Grupo 5 - EMANUELE LUÍZA BONALDO, VALÉRIA SCHEDLER - 2 - Semicondutores e Componentes Ativos
+Grupo 6 - EMILLY PAIANO SCHUSTER, MARIANA - 4.3 - Fontes de Alimentação Lineares
+Grupo 7 - ENDREW DA SILVA RODRIGUES, THOMAZ ALVES FALKENBACH - 1.1 - Resistores e a Lei de Ohm
+Grupo 8 - ÉRICO CATTOI DAHMER, IAGO VALENTIN ALVES BUZATA - 4.4 - Circuitos de Temporização (Constante de Tempo RC)
+Grupo 9 - GABRIEL HENRIQUE GERHARDT, PEDRO OTÁVIO BRUXEL FIGUEIRO - 2.1 - Diodos e Retificação
+Grupo 10 - GUSTAVO GOMES MADRUGA, PEDRO AUGUSTO MARMITT GONÇALVES DE AZEVEDO - 3.2 - Leis de Kirchhoff
